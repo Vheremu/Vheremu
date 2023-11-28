@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VheremuMaxwell
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working on contributing to projects in cyber security
+- 🌱 I’m currently working on contributing to projects in web development 
 - 💞️ I’m looking to collaborate on interesting  Software Development Projects 
 - 📫 How to reach me +263783453569
 
