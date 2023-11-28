@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VheremuMaxwell
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Infomation Technology at Chinhoyi University of Technology and currently am in my 3rd year
-- 💞️ I’m looking to collaborate on Java Development Projects 
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently working on contributing to projects in cyber security
+- 💞️ I’m looking to collaborate on interesting  Software Development Projects 
 - 📫 How to reach me +263783453569
 
 <!---
